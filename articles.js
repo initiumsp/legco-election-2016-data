@@ -3,7 +3,7 @@
         "title":"區諾軒：立法會還有多少「玩票」本錢？", 
         "text": "過分積極參選，或許可圓個別志士就義之夢，換來的更可能是民主陣營選舉覆沒。",
         "link": "https://theinitium.com/article/20160420-opinion-aulokhin-legcoelection/", 
-        "image": "https://d3rhr7kgmtrq1v.cloudfront.net/media/image/2016/04/66a3249cd8d5430db6126c0725affaa0.jpg?imageView2/1/w/240/h/240/format/jpg
+        "image": "https://d3rhr7kgmtrq1v.cloudfront.net/media/image/2016/04/66a3249cd8d5430db6126c0725affaa0.jpg?imageView2/1/w/240/h/240/format/jpg"
     },
     {"date1": "APR", "date2": "20", "author": "", 
         "title":"袁瑋熙：如何用選票打敗獨裁者？", 
