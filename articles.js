@@ -9,7 +9,7 @@
         "title": "是時候，走進選舉前的香港立法會", 
         "text": "立法會大堂掛着藝術裝置《人物》，象徵這裏屬於公眾。今天，我走進立法會，只見到五個保安、兩個職員，還有一部安檢機⋯⋯",
         "link": "https://theinitium.com/article/20160413-hongkong-legco-tour/", 
-        "image": "images/headline_image2.jpg"
+        "image": "http://project.initiumlab.com/legco-election-2016-data/images/headline_image2.jpg"
     },
     {   "date1": "APR", "date2": "11", "author": "涂青華 趙燕婷", 
         "title": "黎汶洛：參選立法會升級「打大佬」", 
@@ -63,7 +63,7 @@
         "title": "旺角騷亂後，228新界東選民的最後掙扎：投票給誰？", 
         "text": "一邊是政治表態，另一邊是守住關鍵一席。星期日的立法會補選，原本是泛民主派與建制派的對局，在旺角騷亂後增添變數，這變數也是未來香港政治的新形態。", 
         "link": "https://theinitium.com/article/20160222-hongkong-legcoelection201601/", 
-        "image": "images/headline_image1.jpg"
+        "image": "http://project.initiumlab.com/legco-election-2016-data/images/headline_image1.jpg"
     },
     {   "date1": "JAN", "date2": "2", "author": "", 
         "title": "鍾耀華：社運四派割裂 立會選舉直面前途問題", 
