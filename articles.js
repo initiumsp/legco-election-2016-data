@@ -1,5 +1,11 @@
 {"articles": [
     {"date1": "APR", "date2": "20", "author": "", 
+        "title":"陳永政：戰國中的泛民，協調不如自強", 
+        "text": "如果綑綁在同一陣營中已無實利，那最合理的做法，就是鬆綁，讓各黨重新獨行其志，以重新爭取認同自己的支持者。",
+        "link": "https://theinitium.com/article/20160420-opinion-eltonchan-legcoelection/", 
+        "image": "https://d3rhr7kgmtrq1v.cloudfront.net/media/image/2016/04/737e5f65f128488385d80cc00686cf8b.jpg?imageView2/1/w/240/h/240/format/jpg"
+    },
+    {"date1": "APR", "date2": "20", "author": "", 
         "title":"區諾軒：立法會還有多少「玩票」本錢？", 
         "text": "過分積極參選，或許可圓個別志士就義之夢，換來的更可能是民主陣營選舉覆沒。",
         "link": "https://theinitium.com/article/20160420-opinion-aulokhin-legcoelection/", 
