@@ -1,4 +1,10 @@
 {"articles": [
+	{"date1": "APR", "date2": "29", "author": "", 
+        "title":"2047香港前途如何？建制、泛民、本土齊激辯", 
+        "text": "什麽是本土？和理非非還是暴力抗爭？如何維持香港自主？六位政壇新人暢談2047的想像。",
+        "link": "https://theinitium.com/article/20160429-hongkong-forum/", 
+        "image": "https://d3rhr7kgmtrq1v.cloudfront.net/media/image/2016/04/f0cb52c847b346728490ba026927b30d.jpg?imageView2/1/w/240/h/240/format/jpg"
+    },
     {"date1": "APR", "date2": "20", "author": "", 
         "title":"陳永政：戰國中的泛民，協調不如自強", 
         "text": "如果綑綁在同一陣營中已無實利，那最合理的做法，就是鬆綁，讓各黨重新獨行其志，以重新爭取認同自己的支持者。",
