@@ -3,7 +3,7 @@
         "title":"不配票、不協調，新生代政治組織參選不求勝？", 
         "text": "在香港求變的年代，大量新政治組織誕生，劍指體制內的立法會議事廳，然而在這場混戰中，它們到底打算如何勝出選舉？",
         "link": "https://theinitium.com/article/20160607-hongkong-hkpoliticalparty01/", 
-        "image": "c9eec60363f34897bc7a93f804dd6488 2.jpg"
+        "image": "https://d3rhr7kgmtrq1v.cloudfront.net/media/image/2016/06/cf1acf7f9e7b4286bdbe47f957a3420b.jpg?imageView2/1/w/240/h/240/format/jpg"
     },
 	{"date1": "MAY", "date2": "11", "author": "", 
         "title":"政治化妝師：「如果是我，一定不會讓老闆講這通電話」", 
