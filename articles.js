@@ -81,7 +81,7 @@
         "title": "新界東立法會補選結果，標誌香港正式進入泛民、建制、本土三足鼎立局面", 
         "text": "補選結果清晨公布，屬傳統泛民主派的公民黨楊岳橋勝出。而首次打正旗號出選的本土派，參選人梁天琦亦獲15%高票，定下本土派的基本盤。", 
         "link": "https://theinitium.com/article/20160229-hongkong-legcoelectionresult/", 
-        "image": "http://project.initiumlab.com/legco-election-2016-data/images/zhaoyanting.jpg"
+        "image": "http://project.initiumlab.com/legco-election-2016-data/images/xinjiedong.jpg"
     },
     {   "date1": "FEB", "date2": "23", "author": "趙燕婷", 
         "title": "當泛民主派說「守住關鍵一席」，他們卻沒踩準「關鍵」？", 
